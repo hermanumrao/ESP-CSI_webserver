@@ -42,4 +42,6 @@ idf.py -p PORT flash monitor
 
 (To exit the serial monitor, type ``Ctrl-]``.)
 
-
+## Referances:
+- https://github.com/espressif/esp-csi
+- https://github.com/espressif/esp-idf
